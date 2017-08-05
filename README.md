@@ -1,7 +1,7 @@
 EMARKET integration/staging tree
 ================================
 
-http://www.emarket.org
+http://www.emarketcoin.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 EMARKET Developers
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the EMARKET client sofware, see http://www.emarket.org.
+the EMARKET client sofware, see http://www.emarketcoin.com.
 
 License
 -------
