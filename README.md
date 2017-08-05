@@ -3,9 +3,6 @@ EMARKET integration/staging tree
 
 http://www.emarketcoin.com
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 EMARKET Developers
-
 What is EMARKET?
 ----------------
 
