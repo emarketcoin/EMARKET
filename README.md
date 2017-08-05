@@ -7,13 +7,17 @@ What is EMARKET?
 ----------------
 
 EMARKET is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ Coin Properties
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+Algorithm	Scrypt
+Type	PoW
+Coin name	EMARKET
+Coin abbreviation	EMARKET
+Block reward	1000 coins
+Block halving	840000 blocks
+Total coin supply	5600000000 coins
+Premine percent	70%
+Premine amount	3920000000 coins
 
 For more information, as well as an immediately useable, binary version of
 the EMARKET client sofware, see http://www.emarketcoin.com.
